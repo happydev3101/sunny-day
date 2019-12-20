@@ -1,0 +1,145 @@
+{
+  "bgmDelay": 0,
+  "totalScore": 1000,
+  "chordsSet": [{
+      "name": "A",
+      "chords": [-1,0,2,2,2,0]
+    },
+    {
+     "name": "F#m",
+     "chords": [2,4,4,2,2,2]
+    },
+    {
+     "name": "E",
+     "chords": [0,2,2,1,0,0]
+    },
+    {
+     "name": "D",
+     "chords": [-1,-1,0,2,3,2]
+    }
+  ],
+  "bgm": "Sunny Day.waw",
+  "ryhImg": ["", "", ""],
+  "gameInfo": [
+    {
+      "type": 0,
+      "times": [3988,4486,4985],
+      "string": [5,3,2],
+      "sweep": "501",
+      "chordsName": "A",
+      "chords": [-1,0,2,2,2,0]
+    },
+    {
+      "type": 0,
+      "times": [5981,6480,6978],
+      "string": [6,3,2],
+      "sweep": "601",
+      "chordsName": "F#m",
+      "chords": [2,4,4,2,2,2]
+    },
+    {
+      "type": 0,
+      "times": [7975,8474,8972],
+      "string": [6,3,1],
+      "sweep": "601",
+      "chordsName": "E",
+      "chords": [0,2,2,1,0,0]
+    },
+    {
+      "type": 1,
+      "times": [9969,9969,9969,9969,9969],
+      "string": [],
+      "sweep": "501",
+      "chordsName": "A",
+      "chords": [-1,0,2,2,2,0]
+    },
+    {
+      "type": 0,
+      "times": [11960,12461,12960],
+      "string": [5,3,1],
+      "sweep": "501",
+      "chordsName": "A",
+      "chords": [-1,0,2,2,2,0]
+    },
+    {
+      "type": 0,
+      "times": [13957,14455,14954],
+      "string": [6,3,1],
+      "sweep": "601",
+      "chordsName": "F#m",
+      "chords": [2,4,4,2,2,2]
+    },
+    {
+      "type": 0,
+      "times": [15950,16449,16947],
+      "string": [6,3,1],
+      "sweep": "601",
+      "chordsName": "E",
+      "chords": [0,2,2,1,0,0]
+    },
+    {
+      "type": 1,
+      "times": [17944,17944,17944,17944,17944],
+      "string": [],
+      "sweep": "501",
+      "chordsName": "A",
+      "chords": [-1,0,2,2,2,0]
+    },
+    {
+      "type": 0,
+      "times": [19938,20437,20935],
+      "string": [5,3,1],
+      "sweep": "501",
+      "chordsName": "A",
+      "chords": [-1,0,2,2,2,0]
+    },
+    {
+      "type": 0,
+      "times": [21932,22430,22929],
+      "string": [6,4,2],
+      "sweep": "601",
+      "chordsName": "F#m",
+      "chords": [2,4,4,2,2,2]
+    },
+    {
+      "type": 1,
+      "times": [23926,23926,23926,23926,23926],
+      "string": [],
+      "sweep": "501",
+      "chordsName": "A",
+      "chords": [-1,0,2,2,2,0]
+    },
+    {
+      "type": 0,
+      "times": [25920,26418,26916],
+      "string": [5,3,2],
+      "sweep": "501",
+      "chordsName": "A",
+      "chords": [-1,0,2,2,2,0]
+    },
+    {
+      "type": 1,
+      "times": [27913,27913,27913,27913,27913],
+      "string": [],
+      "sweep": "501",
+      "chordsName": "A",
+      "chords": [-1,0,2,2,2,0]
+    },
+    {
+      "type": 0,
+      "times": [29907,30406,30904],
+      "string": [6,3,1],
+      "sweep": "601",
+      "chordsName": "F#m",
+      "chords": [2,4,4,2,2,2]
+    },
+    {
+      "type": 1,
+      "times": [31901,31901,31901,31901,31901,31901],
+      "string": [],
+      "sweep": "601",
+      "chordsName": "E",
+      "chords": [0,2,2,1,0,0]
+    }
+  ]
+}
